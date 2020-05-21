@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent Data Passing Test</string>
+    <string name="Integer">PASS INTEGER VALUE TO 2ND ACTIVITY</string>
+    <string name="Character">PASS CHARACTER VALUE TO 2ND ACTIVITY</string>
+    <string name="Double">PASS DOUBLE VALUE TO 2ND ACTIVITY</string>
+
+</resources>
